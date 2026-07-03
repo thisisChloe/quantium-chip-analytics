@@ -11,11 +11,17 @@ A end-to-end retail analytics project completed as part of the [Quantium Data An
 ## Project Structure
 
 ```
-├── QVI_chip_analysis.Rmd       # Task 1 — Customer & product analysis
-├── QVI_task2_store_trial.Rmd   # Task 2 — Store trial evaluation
-├── QVI_task3_report.Rmd        # Task 3 — Client-ready strategic report
-├── report_header.tex           # LaTeX styling for Task 3 PDF
-└── QVI_chip_analysis.ipynb     # Python version of Task 1 (supplementary)
+├── task1-customer-analysis/
+│   ├── QVI_chip_analysis.Rmd       # Customer & product analysis (R)
+│   └── QVI_chip_analysis.ipynb     # Supplementary Python version
+├── task2-store-trial/
+│   └── QVI_task2_store_trial.Rmd   # Store trial evaluation (R)
+├── task3-report/
+│   ├── QVI_task3_report.Rmd        # Client-ready strategic report (R)
+│   └── report_header.tex           # LaTeX styling
+├── .gitattributes
+├── .gitignore
+└── README.md
 ```
 
 > **Data files not included** — download `QVI_transaction_data.xlsx` and `QVI_purchase_behaviour.csv` from the Forage platform and place them in `~/Downloads/`.
