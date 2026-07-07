@@ -24,7 +24,7 @@ A end-to-end retail analytics project completed as part of the [Quantium Data An
 └── README.md
 ```
 
-> **Data files not included** — download `QVI_transaction_data.xlsx` and `QVI_purchase_behaviour.csv` from the Forage platform and place them in `~/Downloads/`.
+> **Data files not included** — download `QVI_transaction_data.xlsx` and `QVI_purchase_behaviour.csv` from the [Forage platform](https://www.theforage.com/simulations/quantium/data-analytics-rqkb), or grab them directly from this [Google Drive folder](https://drive.google.com/drive/folders/1ggkySu0TDnP_VAZTdz6dTnQB0gvShfpz?usp=sharing), and place them in `~/Downloads/`.
 
 ---
 
