@@ -106,3 +106,8 @@ rmarkdown::render("QVI_task3_report.Rmd",      output_format = "pdf_document")
 - **R** — tidyverse, ggplot2, lubridate, scales, gridExtra, patchwork, rmarkdown
 - **Python** — pandas, numpy, matplotlib, seaborn (supplementary notebook)
 - **LaTeX** — xelatex + TinyTeX for PDF rendering
+
+
+---
+
+## 🥇 Certificate
