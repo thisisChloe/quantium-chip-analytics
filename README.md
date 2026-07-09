@@ -4,7 +4,7 @@ A end-to-end retail analytics project completed as part of the [Quantium Data An
 
 ## Skills Demonstrated
 
-`Data Cleaning` · `Data Validation` · `Exploratory Data Analysis` · `Feature Engineering` · `Statistical Analysis` · `Data Visualisation` · `Commercial Thinking` · `Presentation Skills`
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-BFDBFE?style=for-the-badge&labelColor=BFDBFE&color=BFDBFE) ![Data Validation](https://img.shields.io/badge/Data%20Validation-DDD6FE?style=for-the-badge) ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-BBF7D0?style=for-the-badge) ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FED7AA?style=for-the-badge) ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-FECACA?style=for-the-badge) ![Data Visualisation](https://img.shields.io/badge/Data%20Visualisation-99F6E4?style=for-the-badge) ![Commercial Thinking](https://img.shields.io/badge/Commercial%20Thinking-E5E7EB?style=for-the-badge) ![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-FEF08A?style=for-the-badge)
 
 ---
 
