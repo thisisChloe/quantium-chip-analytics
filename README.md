@@ -111,3 +111,4 @@ rmarkdown::render("QVI_task3_report.Rmd",      output_format = "pdf_document")
 ---
 
 ## 🥇 Certificate
+[Quantium Certificate.pdf](https://github.com/user-attachments/files/29821682/Quantium.Certificate.pdf)
